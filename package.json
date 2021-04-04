@@ -1,0 +1,24 @@
+{
+  "name": "iibook",
+  "version": "1.0.0",
+  "description": "《鬼谷八荒》",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/474073456/iibook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/474073456/iibook/issues"
+  },
+  "homepage": "https://github.com/474073456/iibook#readme"
+}
